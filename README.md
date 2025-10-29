@@ -1,2 +1,2 @@
 # Quantitative-Finance-Journey
-Mi progreso y proyectos en el camino para convertirme en Quantitative Machine Learning Engineer
+My progress and projects to become a Quantitative Machine Learning Engineer, starting with this Python module.
